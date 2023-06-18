@@ -1,0 +1,12 @@
+.Products-List{
+  width: 85%;
+  margin: auto;
+}
+.row{
+  display: flex;
+  flex-wrap: wrap;
+}
+.btn-info{
+  background-color: blue;
+  font-size: 2000px;
+}
